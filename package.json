@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jmanuelrosa/test-webtask#readme",
   "dependencies": {
-    "got": "^1.2.2"
+    "got": "^1.2.3"
   },
   "devDependencies": {
     "express": "^3.21.2"
