@@ -1,0 +1,22 @@
+{
+  "name": "test-webtask",
+  "version": "1.0.0",
+  "description": "Test Webtasks-hooks repo https://github.com/jmanuelrosa/webtasks-hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmanuelrosa/test-webtask.git"
+  },
+  "author": {
+    "name": "José Manuel Rosa Moncayo",
+    "email": "josemanuel.rosamoncayo@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmanuelrosa/test-webtask/issues"
+  },
+  "homepage": "https://github.com/jmanuelrosa/test-webtask#readme"
+}
