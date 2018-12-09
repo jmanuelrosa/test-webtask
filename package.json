@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/jmanuelrosa/test-webtask/issues"
   },
-  "homepage": "https://github.com/jmanuelrosa/test-webtask#readme"
+  "homepage": "https://github.com/jmanuelrosa/test-webtask#readme",
+  "dependencies": {
+    "got": "^1.2.2"
+  },
+  "devDependencies": {
+    "express": "^3.21.2"
+  }
 }
